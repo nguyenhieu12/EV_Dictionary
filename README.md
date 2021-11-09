@@ -1,6 +1,6 @@
 # UET_OOP_Dictionary
-This English - Vietnamese dictionary program was built by Nguyen Minh Hieu, Pham Ngoc Toan and Do Nhu Thang.
-The main interface of the program:
++ This English - Vietnamese dictionary program was built by Nguyen Minh Hieu, Pham Ngoc Toan and Do Nhu Thang.
++ The main interface of the program:
 
 ![debai1](https://user-images.githubusercontent.com/78216372/140933571-c2ae850d-20ac-4d32-9cb5-8ef97a0eafaf.png)
 
