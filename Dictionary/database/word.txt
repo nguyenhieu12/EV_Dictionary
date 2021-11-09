@@ -1,0 +1,571 @@
+Daisy: Loài cúc dại tinh khôi, thuần khiết
+Violet: Hoa violet màu tím thủy chung
+Anthea: Xinh đẹp như hoa
+Flora: Đóa hoa kiều diễm
+Jasmine: Hoa nhài tinh khiết
+Lily/Lil/Lilian/Lilla: Loài hoa huệ tây quý phái, sang trọng
+Lotus: Hoa sen mộc mạc
+Rose/Rosa/Rosie/Rosemary: Bà hoàng rạng rỡ trong thế giới các loài hoa
+Rosabella: Đóa hồng xinh đẹp
+Iris: Hoa diên vĩ biểu hiện của lòng dũng cảm, sự trung thành và khôn ngoan
+Willow: Cây liễu mảnh mai, duyên dáng
+Calantha: Một đóa hoa đương thì nở rộ khoe sắc
+Morela: Hoa mai
+Oliver/Olivia: Cây ô liu – tượng trưng cho hòa bình
+Aurora: Ánh bình minh buổi sớm
+Alana: Ánh sáng
+Orianna: Bình minh
+Roxana: Bình minh, ánh sáng
+Azura: Bầu trời xanh bao la
+Ciara: Sự bí ẩn của đêm tối
+Layla: Màn đêm kì bí
+Edena: Ngọn lửa nhiệt huyết
+Eira: Tuyết trắng tinh khôi
+Eirlys: Mong manh như hạt tuyết
+Jena: Chú chim nhỏ e thẹn
+Jocasta: Mặt trăng sáng ngời
+Lucasta: Ánh sáng thuần khiết
+Maris: Ngôi sao của biển cả
+Phedra: Ánh sáng
+Selena/Selina: Mặt trăng
+Stella: Vì tinh tú sáng trên bầu trời đêm
+Sterling: Ngôi sao nhỏ tỏa sáng trên bầu trời cao
+Tên tiếng Anh cho nữ thông dụng, phổ biến
+Caryn: Người luôn được mọi người xung quanh yêu quý
+Angela: Thiên thần
+Ann/Anne: Sự yêu kiều và duyên dáng
+Andrea: Mạnh mẽ, kiên cường
+Glenda: Trong sáng, thánh thiện
+Fiona: Xinh đẹp đằm thắm
+Bella: Xinh đẹp dịu dàng
+Diana: Ánh sáng
+Gina: Sự hào phóng, sáng tạo
+Harmony: Sự đồng nhất tâm hồn
+Gabriela: Con người năng động, nhiệt tình
+Wendy: Thánh thiện, may mắn
+Joy: Sự vui vẻ, lạc quan
+Jennie/Jenny: Thân thiện, hòa đồng
+Jessica: Thiên thần luôn hạnh phúc
+Crystal: Pha lê lấp lánh
+Caroline: Thân thiện, lòng nhiệt tình
+Isabella: Có nguồn gốc từ người Do Thái với ý nghĩa là “sự hết lòng với Chúa”
+Sandra: Người bảo vệ
+Tiffany: Sự xuất hiện của Thiên Chúa
+Emma: Chân thành, vô giá, tuyệt vời
+Claire: Sự thông minh, sáng dạ
+Vivian: Hoạt bát, nhanh nhẹn
+Evelyn/ Eva: Người gieo sự sống
+Vera: Niềm tin kiên định
+Madeline: Cô gái có nhiều tài năng
+Ellie/Ellen: Ánh sáng rực rỡ
+Zelda: Niềm hạnh phúc giản đơn
+Gemma: Một viên ngọc quý
+Jade: Ngọc bích
+Margaret: Ngọc trai
+Pearl: Viên ngọc trai thuần khiết
+Melanie: Màu đen huyền bí
+Brenna: Mỹ nhân với làn tóc đen thướt tha
+Keisha: Người sở hữu đôi mắt đen nhánh
+Kiera: Cô bé tóc đen
+Ruby: Ngọc ruby mang sắc đỏ quyến rũ
+Sienna: Sắc đỏ nhạt
+Scarlet: Màu đỏ tươi như tình yêu bùng cháy trong trái tim thiếu nữ
+Caryn: Người luôn được mọi người xung quanh yêu quý
+Angela: Thiên thần
+Ann/Anne: Sự yêu kiều và duyên dáng
+Andrea: Mạnh mẽ, kiên cường
+Glenda: Trong sáng, thánh thiện
+Fiona: Xinh đẹp đằm thắm
+Bella: Xinh đẹp dịu dàng
+Diana: Ánh sáng
+Gina: Sự hào phóng, sáng tạo
+Harmony: Sự đồng nhất tâm hồn
+Gabriela: Con người năng động, nhiệt tình
+Wendy: Thánh thiện, may mắn
+Joy: Sự vui vẻ, lạc quan
+Jennie/Jenny: Thân thiện, hòa đồng
+Jessica: Thiên thần luôn hạnh phúc
+Crystal: Pha lê lấp lánh
+Caroline: Thân thiện, lòng nhiệt tình
+Isabella: Có nguồn gốc từ người Do Thái với ý nghĩa là “sự hết lòng với Chúa”
+Sandra: Người bảo vệ
+Tiffany: Sự xuất hiện của Thiên Chúa
+Emma: Chân thành, vô giá, tuyệt vời
+Claire: Sự thông minh, sáng dạ
+Vivian: Hoạt bát, nhanh nhẹn
+Evelyn/ Eva: Người gieo sự sống
+Vera: Niềm tin kiên định
+Madeline: Cô gái có nhiều tài năng
+Ellie/Ellen: Ánh sáng rực rỡ
+Zelda: Niềm hạnh phúc giản đơn
+Charmaine: Sự quyến rũ khó có thể cưỡng lại
+Abbey: Sự thông minh
+Adelaide/Adele/Adelia/Adeline: Người phụ nữ cao quý
+Briona: Một người phụ nữ thông minh và độc lập
+Sophia/Sophie: Bộc lộ sự thông thái, trí khôn ngoan trong con người
+Artemis: Tên nữ thần săn bắn trong thần thoại Hy Lạp với biểu tượng là vầng trăng khuyết và cây nguyệt quế
+Eirene/Erin/Irene: Hòa bình
+Donna: Tiểu thư quyền quý
+Nora: Danh dự
+Grace: Sự ân sủng và say mê
+Pandora: Trời phú cho sự xuất sắc toàn diện
+Phoebe: Tỏa sáng mọi lúc mọi nơi
+Florence: Tên một thành phố xinh đẹp của Ý, chỉ sự thịnh vượng
+Phoenix: Phượng hoàng ngạo nghễ và khí phách
+Serenity: Sự bình tĩnh, kiên định
+Juno: Nữ hoàng của thiên đàng, trong thần thoại La Mã, Juno là tên của vị thần bảo vệ hôn nhân
+Una: Hiện thân của chân lý và sắc đẹp kiều diễm
+Aine: Lộng lẫy và rạng rỡ, đây cũng là tên của nữ thần mùa hè xứ Ai-len, người có quyền lực tối thượng và sự giàu có
+Oralie: Ánh sáng cuộc đời tôi
+Almira: Công chúa xinh đẹp
+Victoria: Người chiến thắng
+Doris: Tuyệt thế giai nhân
+Akina: Hoa mùa xuân
+Bonnie: Sự đáng yêu và ngay thẳng
+Alula: Nhẹ tựa lông hồng
+Antaram: Loài hoa vĩnh cửu
+Ceridwen: Vẻ đẹp nên thơ
+Eser: Thơ, nàng thơ
+Araxis: Con sông tạo nguồn cảm hứng cho văn học
+Aster: Loài hoa tháng 9 (dành cho những bạn có sinh nhật vào tháng 9)
+May: Tháng 5 dịu dàng (dành cho những bạn có sinh nhật vào tháng 5)
+Augusta: Tháng 8 diệu kỳ (dành cho những bạn có sinh nhật vào tháng 8)
+June/Junia: Rực rỡ của tháng 6 (dành cho những bạn có sinh nhật vào tháng 6)
+July: Cô gái tháng 7 (dành cho những bạn có sinh nhật vào tháng 7)
+Noelle/Natalia: Nàng công chúa được sinh ra trong đêm Giáng sinh
+Summer/Sunny: Sinh ra trong mùa hạ đầy nắng
+Bell: Chuông ngân vang
+Elaine: Chú hươu con ngơ ngác
+Charlotte: Sự xinh xắn, nhỏ bé, dễ thương
+Ernesta: Sự chân thành và nghiêm túc của một người phụ nữ trong tình yêu
+Fay/Faye: Nàng tiên lạc xuống trần gian
+Keelin: Trong trắng ngây ngô
+Tina: Nhỏ nhắn, bé xinh
+Grainne: Tình yêu
+Mia: “Của tôi” trong tiếng Ý
+Abigail : Niềm vui của một người cha, đẹp đẽ.
+Alina: Người cao quý
+Bella: Đẹp
+Bellezza: Đẹp hay đẹp
+Belinda: Đẹp lắm, rất đẹp
+Bonita: Đẹp
+Bonnie: Xinh đẹp hay hấp dẫn
+Caily: Xinh đẹp hoặc mảnh mai
+Calista: Đẹp nhất
+Calliope: Giọng hát hay
+Calixta: Đẹp nhất hoặc đáng yêu nhất
+Donatella: Một món quà tuyệt đẹp
+Ella: Nàng tiên xinh đẹp
+Ellen: Người phụ nữ đẹp nhất
+Ellie: Ánh sáng chói lọi, hay người phụ nữ đẹp nhất
+Erina: Người đẹp
+Fayre: Đẹp
+Felicia: May mắn hoặc thành công
+Iowa: Vùng đất xinh đẹp
+Isa: Đẹp
+Jacintha: Đẹp
+Jolie: Xinh đẹp hay
+Kaitlyn: Thông minh, một đứa trẻ xinh đẹp
+Keva: Đứa trẻ xinh đẹp
+Kiyomi: Trong sáng và xinh đẹp
+Lillie: Thanh khiết, xinh đẹp
+Lilybelle: Hoa lily xinh đẹp
+Linda: Đẹp
+Lynne: Thác nước đẹp
+Lucinda: Ánh sáng đẹp
+Mabel: Người đẹp của tôi
+Mabs: Người yêu xinh đẹp
+Marabel: Mary xinh đẹp
+Meadow: Cánh đồng đẹp
+Mei: Đẹp
+Miyeon: Xinh đẹp, tốt bụng và dễ mến
+Miyuki: Xinh đẹp, hạnh phúc hay may mắn
+Naamah: Dễ chịu
+Naava: Vui vẻ và xinh đẹp
+Naomi: Dễ chịu và xinh đẹp
+Nefertari: đẹp nhất
+Nefertiti: Người đẹp
+Nelly: ánh sáng rực rỡ
+Nomi: Đẹp và dễ chịu
+Norabel: Ánh sáng đẹp
+Omorose: Đứa trẻ xinh đẹp
+Orabelle:  đẹp
+Rachel: Đẹp
+Raanana: Tươi tắn và dễ chịu
+Ratih: Đẹp nhất hoặc đẹp như thần
+Rosaleen: Hoa hồng nhỏ xinh đẹp
+Rosalind: Hoa hồng đẹp
+Sapphire: Đá quý đẹp
+Tazanna: Công chúa xinh đẹp
+Tegan: Người thân yêu hoặc người yêu thích
+Tove: Tuyệt đẹp và xinh đẹp
+Ulani: Rất đẹp hoặc một vẻ đẹp trời cho
+Venus: Nữ thần sắc đẹp và tình yêu
+Xin: Vui vẻ và hạnh phúc
+Yedda: Giọng hát hay
+Aboli: Đây là một cái tên Hindu không phổ biến có nghĩa là hoa.
+Daisy: Nhiều cô gái được đặt tên theo những bông hoa màu trắng và vàng trang nhã này.
+Ketki: Tên này thường được đánh vần là Ketaki; chính tả khác nhau trên cơ sở cộng đồng.
+Kusum: Tên phổ biến này có nghĩa là hoa.
+Juhi: Loài hoa này thuộc họ hoa nhài.
+Violet: Hoa màu tím hơi xanh này rất độc đáo và đẹp.
+Zahra: Đây là một tên tiếng Ả Rập có nghĩa là hoa.
+Scarlett: Tên này có nghĩa là màu đỏ, màu của tình yêu và tình cảm
+Amora: tên tiếng Tây Ban Nha cho tình yêu
+Ai: tên tiếng Nhật cho tình yêu
+Cer: Tên tiếng Wales có nghĩa là tình yêu
+Darlene: Người thân yêu hoặc người thân yêu
+Davina: Yêu quý
+Kalila: Nó có nghĩa là đấng tình yêu trong tiếng Ả Rập
+Shirina: Đây là một cái tên Mỹ có nghĩa là bản tình ca
+Yaretzi: Một cái tên Aztec có nghĩa là ‘bạn sẽ luôn được yêu thương
+Aisha: Sống động
+Angela: Thiên thần
+Angelique: Như một thiên thần
+Assisi: Địa danh tiếng Ý
+Batya: Con gái của Chúa
+Celestia: Thiên đường
+Chava: Cuộc sống
+Chinmayi: Niềm vui tinh thần
+Ân: Nhân hậu , độ lượng
+Gwyneth: Phúc
+Helena: Nhẹ
+Khadija: Trẻ sơ sinh
+Lourdes: Đức Mẹ
+Magdalena: Món quà của Chúa
+Seraphina: Cánh lửa
+Alva – đắt quý, đắt thượng
+Pandora – được ban phước (trời phú) toàn diện
+Ariadne/Arianne – rất đắt quý, thánh thiện
+Rowena – tên tuổi, niềm vui
+Elysia – được ban/chúc phước
+Xavia – tỏa sáng
+Milcah – nữ hoàng
+Olwen – dấu chân được ban phước (nghĩa là đến đâu mang đến may mắn và sung túc đến đó)
+Meliora – tốt hơn, đẹp hơn, hay hơn
+Elfleda – mỹ nhân đắt quý
+Adelaide/Adelia – người phái nữ có xuất thân đắt quý
+Martha – quý cô, tiểu thư
+Gwyneth – may mắn, hạnh phúc
+Genevieve – tiểu thư, phu nhân của mọi người
+Gladys – công chúa
+Ladonna – tiểu thư
+Helga – được ban phước
+Felicity – vận may tốt lành
+Cleopatra – vinh quang của cha, cũng là tên của một nữ hoàng Ai Cập
+Odette/Odile – sự giàu có
+Orla – công chúa tóc vàng
+Mirabel – tuyệt vời
+Donna – tiểu thư
+Almira – công chúa
+Florence – nở rộ, thịnh vượng
+Hypatia – đắt (quý) nhất
+Adela/Adele – đắt quý
+Abbey: thông minh
+Aberfan: từ đầu nguồn con sông
+Abilene: cỏ
+Aboli: hoa pháo bông
+Acacia: Bất tử, phục sinh
+Adela: Cao quý
+Adelaide: Người phụ nữ có xuất thân cao quý
+Agatha: Tốt bụng
+Agnes: Trong sáng
+Alethea: Sự thật
+Alexandra: người bảo vệ (biệt danh khác của Hera trong thần thoại Hy Lạp)
+Alida: Chú chim nhỏ
+Aliyah: Trỗi dậy
+Allison: quý tộc (trong tiếng Scotland)
+Alma: Tử tế, tốt bụng
+Almira: Công chúa
+Alula: Người có cánh
+Alva: Cao quý, cao thượng
+Amanda: Đáng yêu
+Amelinda: Xinh đẹp và đáng yêu
+Amity: Tình bạn
+Angela: Thiên thần
+Annabelle: Xinh đẹp
+Anthea: Xinh như hoa
+Aretha: Xuất chúng
+Arianne: Rất cao quý, thánh thiện
+Ariel: sư tử của Chúa
+Artemis: Nữ thần mặt trăng (thần thoại Hy Lạp)
+Aubrey: Kẻ trị vì tộc Elf
+Aurelia: Tóc vàng óng
+Aurora: Bình minh
+Azura: Bầu trời xanh
+Bernice: Người mang lại chiến thắng
+Bertha: Nổi tiếng, sáng dạ
+Blanche: Trắng, thánh thiện
+Brenna: Mỹ nhân tóc đen
+Bridget: Sức mạnh, quyền lực
+Bly: Tự do và phóng khoáng
+Calliope: Khuôn mặt xinh đẹp
+Celina: Thiên đường
+Ceridwen: Đẹp như thơ tả
+Charmaine: Quyến rũ
+Christabel: Người Công giáo xinh đẹp
+Ciara: Đêm tối
+Cleopatra: Tên 1 Nữ hoàng Ai Cập
+Cosima: Có quy phép, hài hòa
+Daria: Người giàu sang
+Delwyn: Xinh đẹp, được phù hộ
+Dilys: Chân thành, chân thật
+Donna: Tiểu thư
+Doris: Xinh đẹp
+Drusilla: Mắt long lanh như sương
+Dulcie: Ngọt ngào
+Edana: Lửa, ngọn lửa
+Edna: Niềm vui
+Eira: Tuyết
+Eirian/Arian: Rực rỡ, xinh đẹp
+Eirlys: Bông tuyết
+Elain: Chú hươu con
+Elfleda: Mỹ nhân cao quý
+Elysia: Được ban phước
+Erica: Mãi mãi, luôn luôn
+Ermintrude: Được yêu thương trọn vẹn
+Ernesta: Chân thành, nghiêm túc
+Esperanza: Hy vọng
+Eudora: Món quà tốt lành
+Eulalia: (Người) nói chuyện ngọt ngào
+Eunice: Chiến thắng vang dội
+Euphemia: Được trọng vọng
+Fallon: Người lãnh đạo
+Farah: Niềm vui, sự hào hứng
+Felicity: Vận may tốt lành
+Fidelia: Niềm tin
+Fidelma: Mỹ nhân
+Fiona: Trắng trẻo
+Florence: Nở rộ, thịnh vượng
+Genevieve: Tiểu thư
+Gerda: Người giám hộ, hộ vệ
+Giselle: Lời thề
+Gladys: Công chúa
+Glenda: Trong sạch, thánh thiện
+Godiva: Món quà của Chúa
+Grainne: Tình yêu
+Griselda: Chiến binh xám
+Guinevere: Trắng trẻo và mềm mại
+Gwyneth: May mắn, hạnh phúc
+Halcyon: Bình tĩnh, bình tâm
+Hebe: Trẻ trung
+Helga: Được ban phước
+Heulwen: Ánh mặt trời
+Hypatia: Cao quý nhất
+Imelda: Chinh phục tất cả
+Iolanthe: Đóa hoa tím
+Iphigenia: Mạnh mẽ
+Isadora: Món quà của Isis
+Isolde: Xinh đẹp
+Jena: Chú chim nhỏ
+Jezebel: Trong trắng
+Jocasta: Mặt trăng sáng ngời
+Jocelyn: Nhà vô địch
+Kaylin: Người xinh đẹp và mảnh dẻ
+Keely: Đẹp đẽ
+Keelin: Trong trắng và mảnh dẻ
+Keisha: Mắt đen
+Kelsey: Con thuyền mang đến thắng lợi
+Kendra: Khôn ngoan
+Kerenza: Tình yêu, sự trìu mến
+Kerri: Chiến thắng bóng tối
+Keva: Mỹ nhân, duyên dáng
+Kyla: Đáng yêu
+Kiera: Cô bé tóc đen
+Kyla: Đáng yêu
+Ladonna: Tiểu thư
+Laelia: Vui vẻ
+Lani: Thiên đường, bầu trời
+Latifah: Dịu dàng, vui vẻ
+Letitia: Niềm vui
+Louisa: Chiến binh nổi tiếng
+Lucasta: Ánh sáng thuần khiết
+Lysandra: Kẻ giải phóng loài người
+Mabel: Đáng yêu
+Malie: Bình yên
+Margaret: Ngọc trai
+Maris: Ngôi sao của biển cả
+Martha: Quý cô, tiểu thư
+Melanie: Đen
+Meliora: Tốt hơn, đẹp hơn
+Meredith: Trưởng làng vĩ đại
+Milcah: Nữ hoàng
+Mildred: Sức mạnh của nhân từ
+Mira: Tuyệt vời, yên bình
+Mirabel: Tuyệt vời
+Miranda: Dễ thương, đáng mến
+Morela: Hoa mai
+Morvarid: Trân châu
+Muriel: Biển cả sáng ngời
+Myrna: Sư trìu mến
+Nadia, Nadine: Niềm hy vọng
+Nancy: Hòa bình
+Naimah: Yên bình
+Naomi: Đam mê
+Natalie: Sinh ra vào đêm Giáng sinh
+Nathania: Món quà của Chúa
+Neala: Nhà vô địch
+Nell: Dịu dàng và nhẹ nhàng
+Nerissa: Con gái của biển
+Nerita: Đứa con của biển
+Nevaeh: Thiên đường
+Nessa: Tinh khiết
+Nicolette: Chiến thắng
+Nina: Người công bằng
+Noelle: Em bé của đêm Giáng sinh
+Nola, Noble: Người được nhiều người biết đến
+Nora: Danh dự
+Olga: Thánh thiện
+Olivia, Olive: Hòa bình
+Oliver: Cây ô liu – tượng trưng cho sự hòa bình
+Olwen: Đi đến đâu mang lại may mắn và thịnh vượng đến đó
+Ophelia: Chòm sao Thiên hà
+Oprah: Hoạt ngôn
+Opal: Đá quý
+Oralie: Ánh sáng đời tôi
+Orchid: Hoa lan
+Oriana: Bình minh
+Oriel, Orlena: Quý giá
+Oriole: Chim hoàng oanh
+Orla: Công chúa tóc vàng
+Orlantha: Người của đất
+Oscar: Người hòa nhã
+Pamela: Ngọt như mật ong
+Pandora: Được ban phước
+Pansy: Ý nghĩ
+Patience: Kiên nhẫn và đức hạnh
+Patricia: Quý phái
+Peach: Đào
+Pearl: Ngọc trai/ trân châu
+Phedra: Ánh sáng
+Philippa: Giàu nữ tính
+Philomena: Được yêu quý nhiều
+Phoebe: Ánh trăng vàng tỏa sáng
+Phyllis: Cây xanh tốt
+Prairie: Thảo nguyên
+Primavera: Nơi mùa xuân bắt đầu
+Primrose: Hoa hồng
+Priscilla: Hiếu thảo
+Prudence: Cẩn trọng
+Queen, Queenie: Nữ hoàng
+Quenna: Mẹ của nữ hoàng
+Questa: Người kiếm tìm
+Quintessa: Tinh hoa
+Quinn: hậu duệ của Conn: thủ lĩnh
+Rachel: Nữ tính
+Radley: thảo nguyên đỏ
+Ramona:Khôn ngoan
+Rebecca: Ngay thẳng
+Regina: Hoàng hậu
+Rena: Hòa bình
+Renata, Renee: Người tái sinh
+Rhea: Trái đất
+Rhoda:Hoa hồng
+Rita: Viên ngọc quý
+Roberta: Được nhiều người biết đến
+Robin: Nữ tính
+Rose/ Rosa/ Rosalind/ Rosann/ Rosie: Hoa hồng
+Rosemary:Tinh hoa của biển
+Roxanne: Bình Minh
+Ruby: Viên hồng ngọc
+Ruth: Bạn của tất cả mọi người
+Rowan: Cô bé tóc đỏ
+Rowena: Danh tiếng, niềm vui
+Salome: hiền hòa, yên bình
+Sarah: công chúa, tiểu thư
+Selima: yên bình
+Selina: Mặt trăng
+Serena: tĩnh lặng, thanh bình
+Serenity: bình tĩnh
+Sierra: nước hoa
+Sigourney: Kẻ chinh phục
+Sigrid: Công bằng và thắng lợi
+Sika: Người phụ nữ có tiền
+Solomon: Giang sơn
+Soonnet: Thơ
+Sophia: Sự thông thái
+Sophronia: Cẩn trọng, nhạy cảm
+Stella: Vì sao
+Sterling: Ngôi sao nhỏ
+Summer: Mùa hè
+Sunny: Tia nắng
+Suzu: Chuông nhỏ
+Thalassa: Biển
+Thekla: Vinh quang của thần linh
+Theodora: Món quà của Chúa
+Tina: nhỏ nhắn
+Tryphena: Duyên dáng, thanh nhã
+Tullia: Yên bình
+Ula: Viên ngọc của biển cả
+Uri: Ánh sáng
+Usha: Rạng đông
+Vera: Niềm tin
+Verity: Sự thật
+Veronica: Người mang lại chiến thắng
+Viva/Vivian: Sống động
+Winifred: Niềm vui và hòa bình
+Xavia: Tỏa sáng
+Xenia: Duyên dáng, thanh nhã
+Zel: cái chuông
+Zelda: hạnh phúc
+Zerdali: hoa mai dại
+Zoey: sự sống
+Zulema: hòa bình
+Bat Trang pottery village: làng gốm Bát Tràng
+Cua Bac Church: nhà thờ Cửa Bắc
+Dong Xuan Market: chợ Đồng Xuân
+Fine Arts Museum: bảo tàng Mỹ Thuật
+Ha Noi Old Quarter: phố cổ Hà Nội
+Hanoi Old Citadel: thành cổ Hà Nội
+Hanoi Opera House: nhà hát lớn Hà Nội
+Hoan Kiem Lake: hồ Hoàn Kiếm
+Imperial Citadel of Thang Long: Hoàng Thành Thăng Long
+Long Bien Bridge: cầu Long Biên
+National Museum of Vietnamese History: bảo tàng lịch sử quốc gia Việt Nam
+One Pillar Pagoda: chùa Một Cột
+Quan Su Temple: đền Quán Sứ
+Quan Thanh Temple: đền Quán Thánh
+St. Joseph’s Cathedral: nhà thờ lớn
+Temple of Literature: Văn Miếu
+Thien Quang Lake: hồ Thiền Quang
+Tran Quoc pagoda: chùa Trấn Quốc
+Truc Bach lake: hồ Trúc Bạch
+Van Phuc Silk Village: làng lụa Vạn Phúc
+Vietnam museum of ethnology: bảo tàng dân tộc học
+Vietnamese women’s museum: bảo tàng phụ nữ
+Water puppet theatre: nhà hát múa rối nước
+West Lake: hồ Tây
+Ba Na Hills mountain: núi Bà Nà
+Dragon Brige (Han River Brige): cầu Hàm Rồng (còn gọi là cầu Sông Hàn)
+Hai Van pass: đèo Hải Vân
+Linh Ung Pagoda: chùa Linh Ứng
+Marble Mountain (Five Elements Mountains): Ngũ Hành Sơn
+Museum of Cham Sculpture: bảo tàng điêu khắc Chăm
+My Khe Beach: bãi biển Mỹ Khê
+My Son Sanctuary: thánh địa Mỹ Sơn
+Non Nuoc Beach: bãi biển Non Nước
+Phap Lam Pagoda: chùa Pháp Lâm
+Rooster Church: nhà thờ Con Gà
+Son Tra Peninsula: bán đảo Sơn Trà
+Sun wheel: vòng quay Mặt Trời
+Tien Sa Port: cảng Tiên Sa
+Bitexco financial tower: tháp tài chính Bitexco
+Central Post Office: bưu điện Trung Tâm
+Cu Chi Tunnels: địa đạo Củ Chi
+Fine Art Museum: bảo tàng Mỹ Thuật
+National Museum of Vietnamese History: bảo tàng lịch sử quốc gia Việt Nam
+Nguyen Hue Pedestrian Street: phố đi bộ Nguyễn Huệ
+Nha Rong Habour: bến Nhà Rồng
+Notre Dame Cathedral: nhà thờ Đức Bà
+Reunification Palace: dinh Thống Nhất
+Sai Gon Opera House: nhà hát lớn Sài Gòn
+Sai Gon Zoo and Botanical Garden: Thảo Cầm Viên
+Starlight Bridge: cầu Ánh Sao
+Thu Thiem Tunnel: hầm Thủ Thiêm
+Turtle Lake: hồ Con Rùa
+Ha Long Bay: vịnh Hạ Long
+Trang An Landscape Complex: quần thể danh thắng Tràng An
+The Complex of Hue Monuments: quần thể di tích Cố đô Huế
+Phong Nha – Ke Bang National Park: vườn quốc gia Phong Nha – Kẻ Bàng
+Hoi An Ancient Town: phố cổ Hội An
+Citadel of Ho Dynasty: thành nhà Hồ

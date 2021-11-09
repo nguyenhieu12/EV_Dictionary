@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.Reflection?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<StackPane fx:id="stackPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="664.0" prefWidth="1065.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.dictionary.Controller">
+   <children>
+      <AnchorPane fx:id="anchorPane" prefHeight="200.0" prefWidth="200.0">
+         <children>
+            <ImageView fitHeight="708.0" fitWidth="1095.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../image/start_background.png" />
+               </image>
+            </ImageView>
+            <Button id="button_start" fx:id="button" layoutX="107.0" layoutY="505.0" mnemonicParsing="false" onAction="#changeToBehindView" prefHeight="44.0" prefWidth="145.0" text="BẮT ĐẦU" textFill="#102de3">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+               <effect>
+                  <Reflection />
+               </effect></Button>
+            <Button id="button_exit" fx:id="exitButton" layoutX="107.0" layoutY="597.0" mnemonicParsing="false" onAction="#exit" prefHeight="44.0" prefWidth="145.0" text="THOÁT" textFill="#da0f0f">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+               <effect>
+                  <Reflection />
+               </effect></Button>
+         </children></AnchorPane>
+   </children>
+</StackPane>

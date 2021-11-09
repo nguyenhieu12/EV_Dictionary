@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<StackPane fx:id="editStack" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="663.0" prefWidth="1024.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.dictionary.Controller">
+   <children>
+      <AnchorPane fx:id="editAnchor" prefHeight="200.0" prefWidth="200.0">
+         <children>
+            <ImageView fitHeight="735.0" fitWidth="1179.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../image/edit.png" />
+               </image>
+            </ImageView>
+            <Button id="return_from_edit" fx:id="returnBehindFromEdit" layoutX="553.0" layoutY="597.0" mnemonicParsing="false" onAction="#returnBehindFromEdit" text="Trở về" />
+            <TextField id="edit_word2" fx:id="editWordText1" layoutX="151.0" layoutY="378.0" promptText="Nhập từ tiếng anh">
+               <font>
+                  <Font name="Century" size="12.0" />
+               </font></TextField>
+            <TextField id="edit_word3" fx:id="editWordText2" layoutX="151.0" layoutY="439.0" promptText="Nhập nghĩa của từ">
+               <font>
+                  <Font name="Century" size="12.0" />
+               </font></TextField>
+            <Label layoutX="167.0" layoutY="245.0" prefHeight="40.0" prefWidth="101.0" text=" Sửa từ" textFill="#00ff2e">
+               <font>
+                  <Font name="System Bold Italic" size="28.0" />
+               </font>
+            </Label>
+            <Button id="button_edit" fx:id="editButton" layoutX="197.0" layoutY="501.0" mnemonicParsing="false" onAction="#editWord" prefHeight="25.0" prefWidth="57.0" text="Sửa" />
+            <Label layoutX="883.0" layoutY="245.0" text="Thêm từ" textFill="#fffb0c">
+               <font>
+                  <Font name="System Bold Italic" size="28.0" />
+               </font></Label>
+            <Label layoutX="534.0" layoutY="64.0" text="Xóa từ" textFill="#ff1e00">
+               <font>
+                  <Font name="System Bold Italic" size="28.0" />
+               </font></Label>
+            <Button id="button_add" fx:id="addButton" layoutX="920.0" layoutY="501.0" mnemonicParsing="false" onAction="#addWord" text="Thêm" />
+            <Button id="button_delete" fx:id="deleteButton" layoutX="553.0" layoutY="193.0" mnemonicParsing="false" onAction="#deleteWord" prefHeight="25.0" prefWidth="57.0" text="Xóa" />
+            <TextField id="delete_word" fx:id="deleteWordText" layoutX="503.0" layoutY="128.0" promptText="Nhập từ bạn muốn xóa">
+               <font>
+                  <Font name="Century" size="12.0" />
+               </font></TextField>
+            <TextField id="add_word1" fx:id="addWordText1" layoutX="865.0" layoutY="333.0" promptText="Nhập từ tiếng Anh">
+               <font>
+                  <Font name="Century" size="12.0" />
+               </font></TextField>
+            <TextField id="add_word2" fx:id="addWordText2" layoutX="864.0" layoutY="414.0" prefHeight="25.0" prefWidth="156.0" promptText="Nhập nghĩa của từ">
+               <font>
+                  <Font name="Century" size="12.0" />
+               </font></TextField>
+            <TextField id="edit_word1" fx:id="wordNeedEdit" layoutX="151.0" layoutY="320.0" promptText="Nhập từ bạn muốn sửa">
+               <font>
+                  <Font name="Century" size="12.0" />
+               </font></TextField>
+         </children>
+      </AnchorPane>
+   </children>
+</StackPane>

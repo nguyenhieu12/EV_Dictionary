@@ -1,0 +1,351 @@
+#button_start {
+    -fx-font-weight: bold;
+    -fx-background-color: #96ED00;
+    -fx-background-radius: 26;
+    -fx-font-size: 22;
+    -fx-text-fill: blue;
+}
+
+#button_start:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: orange;
+    -fx-background-radius: 26;
+    -fx-font-size: 22;
+    -fx-text-fill: blue;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-rotate: 7;
+}
+
+#button_exit {
+     -fx-font-weight: bold;
+     -fx-background-color: yellow;
+     -fx-background-radius: 26;
+     -fx-font-size: 22;
+     -fx-text-fill: red;
+ }
+
+#button_exit:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: #05E7EB;
+    -fx-background-radius: 26;
+    -fx-font-size: 22;
+    -fx-rotate: 7;
+    -fx-text-fill: red;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+}
+
+#button_translate {
+    -fx-font-weight: bold;
+    -fx-background-color: #FF00CC;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: #66FF00;
+}
+
+#button_translate:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 16;
+    -fx-text-fill: #FF0099;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: #FF0099;
+}
+
+#button_backtomenu {
+    -fx-font-weight: bold;
+    -fx-background-color: red;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: white;
+}
+
+#button_backtomenu:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 16;
+    -fx-text-fill: red;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: red;
+}
+
+#button_history {
+    -fx-font-weight: bold;
+    -fx-background-color: brown;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: yellow;
+}
+
+#button_history:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 16;
+    -fx-text-fill: brown;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: brown;
+}
+
+#go_to_edit {
+    -fx-font-weight: bold;
+    -fx-background-color: #FFA500;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: #006400;
+}
+
+#go_to_edit:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 16;
+    -fx-text-fill: #006400;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: #006400;
+}
+
+#button_api {
+    -fx-font-weight: bold;
+    -fx-background-color: #00E7FC;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: #FF5900;
+}
+
+#button_api:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 16;
+    -fx-text-fill: #FF5900;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: #FF5900;
+}
+
+#button_introduce {
+     -fx-font-weight: bold;
+     -fx-background-color: #9900FF;
+     -fx-background-radius: 18;
+     -fx-font-size: 14;
+     -fx-text-fill: white;
+ }
+
+#button_introduce:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 16;
+    -fx-text-fill: purple;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: purple;
+}
+
+#button_speaker {
+    -fx-font-weight: bold;
+    -fx-background-color: #96ED00;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: blue;
+}
+
+#button_speaker:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 16;
+    -fx-text-fill: blue;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: blue;
+}
+
+#return_from_introduce {
+    -fx-font-weight: bold;
+    -fx-background-color: #96ED00;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: blue;
+}
+
+#return_from_introduce:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: blue;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: blue;
+}
+
+#show_history {
+    -fx-font-weight: bold;
+    -fx-background-color: brown;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: yellow;
+}
+
+#show_history:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: brown;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: brown;
+}
+
+#return_from_history {
+    -fx-font-weight: bold;
+    -fx-background-color: red;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: white;
+}
+
+#return_from_history:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: red;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: red;
+}
+
+#return_from_edit {
+    -fx-font-weight: bold;
+    -fx-background-color: red;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: white;
+}
+
+#return_from_edit:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: red;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: red;
+}
+
+#button_edit {
+    -fx-font-weight: bold;
+    -fx-background-color: #00FF00;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: #9E00ED;
+}
+
+#button_edit:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: #00FF00;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: #00FF00;
+}
+
+#button_add {
+    -fx-font-weight: bold;
+    -fx-background-color: #000DFF;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: #F07400;
+}
+
+#button_add:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: #F07400;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: #F07400;
+}
+
+#button_delete {
+    -fx-font-weight: bold;
+    -fx-background-color: yellow;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: red;
+}
+
+#button_delete:hover {
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-font-size: 14;
+    -fx-text-fill: red;
+    -fx-border-radius: 22;
+    -fx-border-width: 2;
+    -fx-border-color: red;
+}
+
+#text_input {
+    -fx-text-fill: red;
+    -fx-prompt-text-fill: green;
+    -fx-border-color: blue;
+}
+
+#edit_word1 {
+    -fx-text-fill: purple;
+    -fx-border-color: #00ff2e;
+    -fx-prompt-text-fill: purple;
+}
+
+#edit_word2 {
+    -fx-text-fill: purple;
+    -fx-border-color: #00ff2e;
+    -fx-prompt-text-fill: purple;
+}
+
+#edit_word3 {
+    -fx-text-fill: purple;
+    -fx-border-color: #00ff2e;
+    -fx-prompt-text-fill: purple;
+}
+
+#delete_word {
+    -fx-text-fill: #EB7B05;
+    -fx-border-color: red;
+    -fx-prompt-text-fill: #EB7B05;
+}
+
+#add_word1 {
+    -fx-text-fill: blue;
+    -fx-border-color: #fffb0c;
+    -fx-prompt-text-fill: blue;
+}
+
+#add_word2 {
+    -fx-text-fill: blue;
+    -fx-border-color: #fffb0c;
+    -fx-prompt-text-fill: blue;
+}
+
+#history_text {
+    -fx-control-inner-background: #8B4513;
+    -fx-text-fill: #FFFF00;
+}
+

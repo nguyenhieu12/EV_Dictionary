@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Reflection?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<StackPane fx:id="returnStack" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="662.0" prefWidth="1055.0" translateX="-2.0" translateY="-1.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.dictionary.Controller">
+   <children>
+      <AnchorPane fx:id="returnAnchor" prefHeight="200.0" prefWidth="200.0">
+         <children>
+            <ImageView fitHeight="708.0" fitWidth="1095.0" layoutY="1.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../image/behind_background.png" />
+               </image>
+            </ImageView>
+            <Button id="button_backtomenu" fx:id="returnButton" layoutX="89.0" layoutY="608.0" mnemonicParsing="false" onAction="#changeToHelloView" prefHeight="25.0" prefWidth="152.0" text="Trở về">
+               <effect>
+                  <Reflection />
+               </effect></Button>
+            <Button id="button_translate" fx:id="searchButton" layoutX="89.0" layoutY="300.0" mnemonicParsing="false" onAction="#search" prefHeight="25.0" prefWidth="152.0" text="Dịch nghĩa">
+               <effect>
+                  <Reflection />
+               </effect></Button>
+            <TextArea fx:id="textArea" layoutX="341.0" layoutY="88.0" prefHeight="575.0" prefWidth="720.0" visible="false" />
+            <Button id="button_history" fx:id="goToHistory" layoutX="89.0" layoutY="534.0" mnemonicParsing="false" onAction="#changeToHistoryView" prefHeight="25.0" prefWidth="152.0" text="Lịch sử tra từ">
+               <effect>
+                  <Reflection />
+               </effect></Button>
+            <Button id="button_introduce" fx:id="goToIntroduce" layoutX="89.0" layoutY="146.0" mnemonicParsing="false" onAction="#changeToIntroduceView" prefHeight="25.0" prefWidth="152.0" text="Giới thiệu">
+               <effect>
+                  <Reflection />
+               </effect>
+            </Button>
+            <Button id="button_speaker" fx:id="speakerButton" layoutX="89.0" layoutY="457.0" mnemonicParsing="false" onAction="#speaker" prefHeight="25.0" prefWidth="152.0" text="Phát âm">
+               <effect>
+                  <Reflection />
+               </effect>
+            </Button>
+            <Button id="go_to_edit" fx:id="goToEdit" layoutX="89.0" layoutY="225.0" mnemonicParsing="false" onAction="#changeToEditView" prefHeight="25.0" prefWidth="152.0" text="Thêm, sửa, xóa">
+               <effect>
+                  <Reflection />
+               </effect>
+            </Button>
+            <Button id="button_api" fx:id="buttonAPI" layoutX="89.0" layoutY="381.0" mnemonicParsing="false" onAction="#searchWithAPI" prefHeight="25.0" prefWidth="152.0" text="Dịch đoạn văn">
+               <effect>
+                  <Reflection />
+               </effect>
+            </Button>
+            <TextField id="text_input" fx:id="textField" layoutX="375.0" layoutY="29.0" prefHeight="34.0" prefWidth="686.0" promptText="Nhập từ hoặc đoạn văn">
+               <font>
+                  <Font name="Century" size="15.0" />
+               </font>
+               <effect>
+                  <Reflection />
+               </effect></TextField>
+         </children>
+      </AnchorPane>
+   </children>
+</StackPane>
