@@ -366,14 +366,14 @@ public class Controller extends DictionaryManagement implements Initializable {
         String[] hey = tmp.split(" ");
 
         for(int i = 1; i <= hey.length; i++ ){
-            if(92 - count < hey[i - 1].length()) {
+            if(90 - count < hey[i - 1].length()) {
                 res.append('\n');
                 res.append(hey[i-1]);
                 res.append(' ');
                 count = 0;
-                count = count + hey[i-1].length();
+                count = count + hey[i-1].length() + 1;
             }
-            else if(92 - count == hey[i-1].length()) {
+            else if(90 - count == hey[i-1].length()) {
                 res.append(hey[i-1]);
                 res.append('\n');
                 count = 0;
